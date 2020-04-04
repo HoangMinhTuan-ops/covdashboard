@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HoangMinhTuan-ops/covdashboard/static/css/main.b1e40025.chunk.css",
+    "main.js": "/HoangMinhTuan-ops/covdashboard/static/js/main.ff531903.chunk.js",
+    "main.js.map": "/HoangMinhTuan-ops/covdashboard/static/js/main.ff531903.chunk.js.map",
+    "runtime-main.js": "/HoangMinhTuan-ops/covdashboard/static/js/runtime-main.14b2ca40.js",
+    "runtime-main.js.map": "/HoangMinhTuan-ops/covdashboard/static/js/runtime-main.14b2ca40.js.map",
+    "static/js/2.923c9156.chunk.js": "/HoangMinhTuan-ops/covdashboard/static/js/2.923c9156.chunk.js",
+    "static/js/2.923c9156.chunk.js.map": "/HoangMinhTuan-ops/covdashboard/static/js/2.923c9156.chunk.js.map",
+    "index.html": "/HoangMinhTuan-ops/covdashboard/index.html",
+    "precache-manifest.dc1bb18e23cbd4fd7cc9fc0da9942697.js": "/HoangMinhTuan-ops/covdashboard/precache-manifest.dc1bb18e23cbd4fd7cc9fc0da9942697.js",
+    "service-worker.js": "/HoangMinhTuan-ops/covdashboard/service-worker.js",
+    "static/css/main.b1e40025.chunk.css.map": "/HoangMinhTuan-ops/covdashboard/static/css/main.b1e40025.chunk.css.map",
+    "static/js/2.923c9156.chunk.js.LICENSE.txt": "/HoangMinhTuan-ops/covdashboard/static/js/2.923c9156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b2ca40.js",
+    "static/js/2.923c9156.chunk.js",
+    "static/css/main.b1e40025.chunk.css",
+    "static/js/main.ff531903.chunk.js"
+  ]
+}
